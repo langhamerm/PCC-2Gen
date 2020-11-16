@@ -1,0 +1,228 @@
+/* Applies to EVERYTHING unless overridden elsewhere */
+
+* {
+  margin: 0;
+}
+body {
+  background: coral;
+}
+
+header {
+  background: white;
+  margin-bottom: 25px;
+  height: 100%;
+  width: 100%;
+  margin-left: 5px;
+  border-right: 10px solid coral;
+}
+
+a {
+  font-weight: bolder;
+  color: black;
+}
+
+section {
+  background: rgba(0, 0, 0, 0.25);
+  margin-bottom: 10px;
+  margin-left: 5px;
+  height: 100%;
+  border-left: 2px solid black;
+  border-right: 5px solid coral;
+}
+aside {
+  background: rgba(0, 0, 0, 0.25);
+  margin-bottom: 10px;
+  margin-left: 5px;
+  height: 200px;
+  display: block;
+  border-left: 2px solid black;
+  border-right: 5px solid coral;
+}
+footer {
+  background: rgba(0, 0, 0, 0.25);
+  margin-bottom: 25px;
+  text-align: center;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+h1 {
+  text-align: center;
+}
+#mern {
+  width: 125px;
+  height: 55px;
+}
+#mern-icons {
+  width: 100px;
+  height: 75px;
+  float: left;
+}
+
+#parent1 {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+#parent2 {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+#parent3 {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: auto auto auto auto;
+}
+
+#parent4 {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: auto;
+}
+
+.child1 {
+  background-color: skyblue;
+  border-bottom: 2px solid black;
+}
+.child2 {
+  background-color: powderblue;
+  border-bottom: 2px solid black;
+}
+.child3 {
+  background-color: cadetblue;
+  border-bottom: 2px solid black;
+}
+.child4 {
+  background-color: aqua;
+}
+.child5 {
+  background-color: firebrick;
+  border-right: 2px solid white;
+}
+.child6 {
+  background-color: salmon;
+}
+.child7,
+.child8,
+.child9,
+.child10 {
+  background-color: white;
+  text-align: center;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+.child10 {
+  border-right: 2px solid black;
+}
+
+/* Applies to any device whose screen width is 768px or wider */
+
+@media screen and (min-width: 768px) {
+  body {
+    background: darkseagreen;
+  }
+  aside {
+    /* display: grid; */
+    height: 275px;
+    border-right: 5px solid darkseagreen;
+  }
+  header {
+    margin-bottom: 25px;
+    border-right: 10px solid darkseagreen;
+  }
+  section {
+    border-right: 5px solid darkseagreen;
+  }
+  #mern {
+    width: 175px;
+    height: 100px;
+    text-align: center;
+  }
+  #parent3 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto;
+  }
+  #parent2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+  }
+  #mern-bio {
+    font-size: 1.25rem;
+  }
+}
+/* Applies to any device whose screen width is 1200px or wider */
+
+@media screen and (min-width: 1200px) {
+  body {
+    background: violet;
+  }
+  aside {
+    float: right;
+    width: 30%;
+    height: 1000px;
+    border-right: 5px solid violet;
+  }
+  section {
+    float: left;
+    width: 69%;
+    height: 1000px;
+    border-right: 5px solid violet;
+    /* margin-right: 10px; */
+  }
+  header {
+    margin-bottom: 50px;
+    margin-left: 5px;
+    background: violet;
+    border-right: 10px solid violet;
+  }
+  footer {
+    clear: both;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  #parent3 {
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto;
+  }
+  #parent2 {
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
+  }
+  #parent1 {
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto;
+  }
+  #mern {
+    width: 250px;
+    height: 175px;
+    text-align: center;
+  }
+  #mern-bio {
+    font-size: 1.75rem;
+  }
+  #mern-icons {
+    width: 200px;
+    height: 150px;
+  }
+  .child5 {
+    border-right: none;
+    border-bottom: 2px solid white;
+  }
+}
