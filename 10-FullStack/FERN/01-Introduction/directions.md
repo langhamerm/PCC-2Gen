@@ -60,4 +60,10 @@ After completing the homework please add the piece to your portfolio. Make sure 
 
 - - -
 
+### Start Video Series Here
+
+https://www.youtube.com/watch?v=RkBfu-W7tt0&list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP&index=1
+
+- - -
+
 **Good Luck!**
