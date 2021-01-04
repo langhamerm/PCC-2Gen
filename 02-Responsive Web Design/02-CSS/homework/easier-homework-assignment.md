@@ -12,9 +12,9 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
 
 * Just because this is the "easier" assignment does not make it the "quick" one. The process of learning web development is nothing without a serious time investment. While the work may seem strenuous now, you'll find yourself becoming more comfortable with web development as you put more hours into your training.
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* Please submit the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ### Instructions
 

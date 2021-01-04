@@ -14,9 +14,9 @@ the portfolio you made last unit with a mobile-responsive layout.
 
 * We're diving into JavaScript next unit, and HTML/CSS will start receiving less focus. Still, you'll find that a basic knowledge of HTML/CSS will help you understand JavaScript, especially when we use it to manipulate web pages.
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ### Instructions
 

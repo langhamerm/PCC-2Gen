@@ -10,9 +10,9 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
 
 * This will be one of your harder assignments, if only because you're just getting your feet wet in web design. Trust us, though; it will get easier. Invest your time in this assignment, and it will pay dividends!
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* Please submit the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ### Instructions
 
@@ -110,11 +110,6 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
 
 * This will be a tough assignment, but 23 weeks from now, you'll look back to this exercise and realize just how much you've grown as a developer. Stay positive! You've got this!
 
-### Reminder: Submission on BCS
-
-* Please submit the link to the Github Repository!
-
-- - -
 
 ### Minimum Requirements
 
