@@ -25,13 +25,13 @@ By Unit 9. Try your _absolute best_ to finish this homework.
 4. Inside `RPS-Multiplayer`, create your `assets` directory.
 5. Create the folders and files you typically place in `assets` -- just like you had for the prior unit's homework assignments.
 
-### Submission on BCS
 
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ### Instructions
 
-* Create a game that suits this user story:
+* Create a game that### Submission via Email/Slack
+ suits this user story:
 
   * Only two users can play at the same time.
 
@@ -44,12 +44,6 @@ By Unit 9. Try your _absolute best_ to finish this homework.
   * Styling and theme are completely up to you. Get Creative!
 
   * Deploy your assignment to Github Pages.
-
-### Reminder: Submission on BCS
-
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
-
-- - -
 
 ### Minimum Requirements
 

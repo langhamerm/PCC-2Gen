@@ -30,9 +30,9 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
     - server.js
   ```
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ### Instructions
 

@@ -16,9 +16,9 @@ In this assignment, you're going to Sequelize the `Burger` app you made last uni
 
 4. **Note**: If for any reason you don't have a finished assignment for last unit, no problem. Message the instructor, who will provide you will a skeleton file to work of for this unit.
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* **This assignment must be deployed.** Please submit both the deployed Heroku link to your homework AND the link to the Github Repository! See [](../../03-Supplemental/SequelizeHerokuDeploymentProcess.pdf)
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ## Instructions
 
@@ -64,12 +64,6 @@ Put in your best efforts to complete one of the three available challenge tiers.
   * A Customer's name cannot be null
 
 * Order the Burgers you send back to the user in alphabetical order using the Sequelize "order" option.
-
-### Reminder: Submission on BCS
-
-* Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
-
-- - -
 
 ### Minimum Requirements
 

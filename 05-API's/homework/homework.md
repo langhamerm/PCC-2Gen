@@ -21,9 +21,9 @@ In this assignment, you'll use the GIPHY API to make a dynamic web page that pop
 
    * You should have a high-level understanding of how this assignment works before attempting to code it.
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ### Instructions
 
@@ -71,12 +71,6 @@ Attempt to complete homework assignment as described in instructions. If unable 
 6. Allow users to add their favorite gifs to a `favorites` section.
    * This should persist even when they select or add a new topic.
    * If you are looking for a major challenge, look into making this section persist even when the page is reloaded(via localStorage or cookies).
-
-### Reminder: Submission on BCS
-
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
-
-- - -
 
 ### Create a README.md
 

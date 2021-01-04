@@ -4,9 +4,9 @@
 
 In this assignment, you'll create one of two possible computer games: Word Guess or Psychic. These apps will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ### Before You Begin
 
@@ -126,7 +126,7 @@ In this assignment, you'll create one of two possible computer games: Word Guess
 
 8. Turn in anything you have! Even if you don't finish, we still want to see what you were able to accomplish in the time we gave you. This will help us know what concepts we could help you with, as well as what topics we should focus on in the coming lectures.
 
-### Reminder: Submission on BCS
+### Reminder: Submission via Email/Slack
 
 * Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
 

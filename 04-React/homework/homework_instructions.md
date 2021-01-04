@@ -4,9 +4,9 @@
 
 For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* **This assignment must be deployed.** * Please submit both the deployed GitHub Pages link to your homework AND the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ### Instructions
 
@@ -35,12 +35,6 @@ For this assignment, you'll create a memory game with React. This assignment wil
 #### Hints
 
 * Begin by building a non-functioning static version for your Clicky Game. Then work on making the game interactive.
-
-### Reminder: Submission on BCS
-
-* Please submit both the deployed GitHub Pages link to your homework AND the link to the Github Repository!
-
-- - -
 
 ### Create a README.md
 

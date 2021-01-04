@@ -18,9 +18,9 @@ Make sure you use the normal GitHub. Because this is a CLI App, there will be no
 
 If you haven't written a markdown file yet, [click here for a rundown](https://guides.github.com/features/mastering-markdown/), or just take a look at the raw file of these instructions.
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* Please submit the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ## Instructions
 
@@ -131,12 +131,6 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
    * Hint: You may need to look into JOINS.
 
    * **HINT**: There may be an NPM package that can log the table to the console. What's is it? Good question :)
-
-### Reminder: Submission on BCS
-
-* Please submit the link to the Github Repository!
-
-- - -
 
 ### Minimum Requirements
 

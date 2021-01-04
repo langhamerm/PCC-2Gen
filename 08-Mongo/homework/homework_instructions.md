@@ -47,9 +47,9 @@ mongoose.connect(MONGODB_URI);
 
 9. Your site doesn't need to match the demo's style, but feel free to attempt something similar if you'd like. Otherwise, just be creative!
 
-### Submission on BCS
+### Submission via Email/Slack
 
-* **This assignment must be deployed.** * Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
+* Please submit the link to the Github Repository and live site to your instructor via slack or email!
 
 ## Instructions
 
